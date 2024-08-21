@@ -1,4 +1,5 @@
 INTRODUCTION
+
 IOT based plant irrigation system aims at nurturing of plants based on soil moisture levels. Water is supplied to the plants at times when required ensuring that plants receive the right amount of water without human intervention.
 This reduces the risk of under-watering or over-watering.
 WORKING PRINCIPLE
